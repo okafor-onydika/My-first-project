@@ -1,0 +1,28 @@
+body {
+    background-image: url('background.jpg');
+    background-size: cover;
+    color: white;
+    background-image: url(istockphoto-1620632943-1024x1024.jpg);
+    background-image: url(istockphoto-1464396761-1024x1024.jpg);
+}
+
+.hero {
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    padding: 60px 0;
+    text-align: center;
+}
+
+.hero h1 {
+    font-size: 3rem;
+}
+a{
+    display: inline;
+    padding: 100px;
+}
+nav ul header a{
+    padding: 1000px;
+}
+.hero p {
+    font-size: 1.5rem;
+}
